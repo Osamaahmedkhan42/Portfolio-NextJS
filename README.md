@@ -16,3 +16,10 @@ Can run the application in VS Code or a terminal and it will be available at `ht
 npm install
 npm run dev
 ```
+
+## Credits
+Hosna Qasmei
+
+## Link
+https://portfolio-next-js-ten-jet.vercel.app/
+
