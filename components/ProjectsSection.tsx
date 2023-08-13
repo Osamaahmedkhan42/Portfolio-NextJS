@@ -22,6 +22,14 @@ const projects = [
     credits: "Antonio Erdeljac",
     link: "https://messenger-clone-sepia.vercel.app/",
   },
+  {
+    name: "Inventry Management App",
+    description: "An inventry management app created with NextJS.",
+    image: "/Inventry.png",
+    github: "https://github.com/Osamaahmedkhan42/inventryManagement",
+    credits: "Harry",
+    link: "https://inventry-management.vercel.app/",
+  },
 
 ]
 
